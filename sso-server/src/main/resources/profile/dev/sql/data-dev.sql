@@ -22,4 +22,4 @@ INSERT INTO SYS_USER_QUESTION VALUES ('admin', '你的年龄是？',  '38');
 INSERT INTO SYS_ATTRS VALUES ('admin', 'group', 'ADMIN_ROLE');
 INSERT INTO SYS_ATTRS VALUES ('admin', 'group', 'MANAGEMENT_ROLE');
 INSERT INTO SYS_ATTRS VALUES ('admin', 'group', 'DEV_ROLE');
-INSERT INTO SYS_ATTRS VALUES ('admin', 'school', 'GuangZhou');
+INSERT INTO SYS_ATTRS VALUES ('admin', 'school', 'Shanghai');
